@@ -106,6 +106,6 @@ This project successfully demonstrates an end-to-end implementation of a Decisio
 ## 🙌 Acknowledgment
 This task was completed as part of a learning exercise to understand Decision Tree algorithms and their practical implementation using Scikit-learn.
 
-# Output
+## 📸 Output
 
 <img width="1636" height="836" alt="Image" src="https://github.com/user-attachments/assets/59bd18a6-0e60-4570-b0e0-4a6509292933" />
